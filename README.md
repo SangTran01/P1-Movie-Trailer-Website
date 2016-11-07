@@ -3,9 +3,10 @@
 ## Introduction
 
 This is the project 1 Movie Trailer Website Project for Udacity Fullstack Nanodegree. This app covers:
-* knowledge in python
+* Python
+* HTML, CSS
 
-![map1](https://cloud.githubusercontent.com/assets/15135653/20070895/3b8577ae-a4f0-11e6-89ee-e724d31264d9.png)
+![movie](https://cloud.githubusercontent.com/assets/15135653/20071402/628b5c36-a4f2-11e6-84d9-f7e5d5977742.jpg)
 
 
 ## Requirements
