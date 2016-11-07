@@ -21,6 +21,7 @@ This is the project 1 Movie Trailer Website Project for Udacity Fullstack Nanode
 
 1. Open up entertainment_center.py with IDLE
 2. Run the program (F5)
+3. view fresh_tomatoes.html
 
 
 ## Details
