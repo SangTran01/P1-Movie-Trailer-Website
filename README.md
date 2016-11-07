@@ -12,6 +12,7 @@ This is the project 1 Movie Trailer Website Project for Udacity Fullstack Nanode
 ## Requirements
 
 * Python IDLE software
+* Sublime Text Editor
 
 
 ## Installation
