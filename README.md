@@ -27,4 +27,4 @@ This is the project 1 Movie Trailer Website Project for Udacity Fullstack Nanode
 
 ## Details
 
-* This application allows the user to filter restaurants from a list and view them on a map.
+* This is a html page displaying movie title and images
